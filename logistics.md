@@ -1,19 +1,6 @@
 # Meetings Logistics
 
 0. Topic
-1. Location
-2. Format
-3. Materials
-4. Person Responsible
-5. Speakers/Invited
-6. Event created on meetup.com
-7. Event created on the facebook group
-8. Feedback form
-9. Food and drinks
-10. Event agenda
-11. Pitching list
-12. Present a cool woman
-13. Date0. Topic
 1. Date
 2. Location
      - contact person
